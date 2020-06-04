@@ -1,0 +1,11 @@
+body {
+    background-image: url("haikei.jpg");
+}
+table, td, th {
+    border: solid 1px gray;
+    background-color: white;
+}
+
+#amabie {
+    text-align: right;
+}
